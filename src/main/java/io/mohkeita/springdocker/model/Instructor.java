@@ -34,4 +34,5 @@ public class Instructor extends AuditModel {
             CascadeType.ALL
     })
     private List<Course> courses;
+
 }
